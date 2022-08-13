@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Genshin_CharacterScene_Sphere
+  m_Shader: {fileID: 4800000, guid: 14976fe8895d52542b037f6c794e94e4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightSmokeNoise:
+        m_Texture: {fileID: 2800000, guid: bf5e43edf194cb44fa8ac64bc054704e, type: 3}
+        m_Scale: {x: 3, y: 6}
+        m_Offset: {x: 0, y: 0.01}
+    - _MassiveSmokeNoise:
+        m_Texture: {fileID: 2800000, guid: 6c639b5a21915594aa52da687115aba2, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0.21}
+    - _SingleStar:
+        m_Texture: {fileID: 2800000, guid: 95cadf58a7ea6454db6104da6823a088, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _StarMask:
+        m_Texture: {fileID: 2800000, guid: 496123ad32efb83409ba9fd47af2a095, type: 3}
+        m_Scale: {x: 5, y: 10}
+        m_Offset: {x: 0, y: 0.22}
+    m_Ints: []
+    m_Floats:
+    - _BaseColMidPos: 7.09
+    - _BigStarSpeed: 0.2
+    - _LightSmokeSpeed: 1
+    - _MassiveSmokeInt: 1
+    - _MassiveSmokeMoveSpeed: 0.15
+    - _SingleStarSpeed: 1
+    - _StarSpeed: 0.25
+    - _test: 0.55
+    m_Colors:
+    - _BaseColorBot: {r: 0, g: 0.5461972, b: 0.6792453, a: 1}
+    - _BaseColorTop: {r: 0, g: 0.21789245, b: 0.3679245, a: 1}
+    - _LightSmokeColor: {r: 0, g: 0, b: 0.8679245, a: 1}
+    - _MassiveSmokeColor: {r: 0.2240566, g: 0.4546267, b: 0.5, a: 1}
+    - _StarColor: {r: 0.9575472, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

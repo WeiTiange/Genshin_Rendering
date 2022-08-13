@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Test_Hair
+  m_Shader: {fileID: 4800000, guid: e430e96d7fbe18a4ba5887e320b450ff, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DAYNIGHT_DAY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 74e4197ba045c834d95f320738d2fa3d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 31a6a23fb9a24ad4196121bd4a33a11a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 042708bb70260234cb974a618f00657e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampMap:
+        m_Texture: {fileID: 2800000, guid: f875d6ebc9d55444eabb5717e32d75a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AOIntensity: 0.5
+    - _BaseShadowInt: 0.92
+    - _BrightIntensity: 1
+    - _CharacterIntensity: 1
+    - _DarkIntensity: 1
+    - _DayNight: 0
+    - _LightIntensity: 1
+    - _LightThreshold: 0.484
+    - _MetalMapIntensity: 1
+    - _MetalMapV: 0.5
+    - _RampAOLerp: 0.817
+    - _RampIndex: 0
+    - _RampIntensity: 1
+    - _RampLerp: 0.5
+    - _RampShadowRange: 0.246
+    - _ShadowRampLerp: 0.478
+    - _SpecularExp: 2
+    - _SpecularIntensity: 1
+    - _StepSpecularIntensity: 1
+    - _StepSpecularIntensity2: 1
+    - _StepSpecularIntensity3: 1
+    - _StepSpecularWidth: 0.5
+    - _StepSpecularWidth2: 0.5
+    - _StepSpecularWidth3: 0.5
+    m_Colors: []
+  m_BuildTextureStacks: []

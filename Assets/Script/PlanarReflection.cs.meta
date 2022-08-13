@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ba913026a462b24f8ee61d406c04e62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Camera: {instanceID: 0}
+  - m_MatBlur: {fileID: 2100000, guid: 8dff4dd65f3005f4cb10271dc7efc3cd, type: 2}
+  - m_BumpTex: {instanceID: 0}
+  - m_MaskTex: {instanceID: 0}
+  - m_SdrDepth: {instanceID: 0}
+  - m_RTReflectionColor: {instanceID: 0}
+  - m_RTHeightAtten: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
