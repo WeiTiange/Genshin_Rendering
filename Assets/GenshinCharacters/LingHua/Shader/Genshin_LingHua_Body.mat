@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Genshin_LingHua_Body
+  m_Shader: {fileID: 4800000, guid: 36205e61759303e42bbb5bae8d928649, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DAYNIGHT_DAY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3be70523d1905414db090fbc51443c61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AOIntensity: 1
+    - _BrightIntentsy: 1
+    - _DarkIntensity: 1
+    - _DayNight: 0
+    - _DiffuseIntensity: 1
+    - _EmissionIntensity: 2
+    - _LightThreshold: 0.5
+    - _MetalMapIntensity: 1
+    - _MetalMapRange: 0.2
+    - _OffsetAmount: 1
+    - _OutlineWidth: 1
+    - _RampLerp: 1
+    - _RampOffset: 1
+    - _RimThreshold: 0.5
+    - _ShadowSmooth: 0.5
+    - _SpecularExp: 2
+    - _SpecularIntensity: 1
+    - _StepSpecularIntensity: 0.8
+    - _StepSpecularWidth: 0.2
+    m_Colors:
+    - _ColorBase: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorCloth: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorSkin: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
